@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on getting my AWS SAA-C02
-- 🌱 I’m currently learning Rust by buildling a rogue-like dungeon crawler
+
+
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
